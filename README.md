@@ -1,6 +1,6 @@
 ### Hi there, I'm Sameen, a final year CS undergrad at BUET, Bangladesh.👋
 
-[Link to CV](https://docs.google.com/document/d/16cBDxTxk-lzHz_jA3m_u13qQ2eGbzK--SiY8OFsGrKM/edit?usp=sharing)
+[Link to CV](https://docs.google.com/document/d/1BgHEm0UCUUmteekMVJSFn5acm5H5I0IvUay3Fj35SVQ/edit?usp=sharing)
 
 <!--
 **Patchwork53/Patchwork53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
