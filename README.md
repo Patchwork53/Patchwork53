@@ -1,11 +1,13 @@
 ### Hi there, I'm Sameen, a final year CS undergrad at BUET, Bangladesh.👋
+I'll be joining University of California Riverside as a PhD student in Fall 2024
 
-[Link to CV](https://docs.google.com/document/d/1BgHEm0UCUUmteekMVJSFn5acm5H5I0IvUay3Fj35SVQ/edit?usp=sharing)
+[Curiculum Vitae](https://docs.google.com/document/d/1BgHEm0UCUUmteekMVJSFn5acm5H5I0IvUay3Fj35SVQ/edit?usp=sharing)
 
-🔭 I’m currently working on Vision Language Models and revisiting classic NLP tasks. <br>
-🌱 I’m currently learning Computer Vision and Medical Imaging. <br>
+🔭 I’m currently working on image-text multimodality <br>
+🌱 I’m currently learning mathematics for Mechanisic Interpretability <br>
 💬 Ask me about NLP. <br>
-📫 How to reach me: sameen2080@gmail.com <br>
+📫 How to reach me: sameen2080 AT gmail <br>
+
 <!--
 **Patchwork53/Patchwork53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
