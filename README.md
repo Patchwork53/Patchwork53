@@ -1,4 +1,4 @@
-### Hi there, I'm Sameen, a final year CS undergrad at BUET, Bangladesh.👋
+### Hi there, I'm Sameen, a fresh graduate from CSE, BUET Bangladesh.👋
 I'll be joining University of California Riverside as a PhD student in Fall 2024
 
 [Curiculum Vitae](https://docs.google.com/document/d/1BgHEm0UCUUmteekMVJSFn5acm5H5I0IvUay3Fj35SVQ/edit?usp=sharing)
