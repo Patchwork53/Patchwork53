@@ -1,6 +1,6 @@
 ### Hi there, I'm Sameen, a 1st year CS PhD student at the University of California Riverside. 
 
-[Curiculum Vitae](https://docs.google.com/document/d/1BgHEm0UCUUmteekMVJSFn5acm5H5I0IvUay3Fj35SVQ/edit?usp=sharing)
+[Curiculum Vitae](https://drive.google.com/file/d/12wQTfzZZ4Aqq6M1G4jS-bVXvDlC6O6pN/view?usp=sharing)
 
 🔭 I’m currently working on image-text multimodality <br>
 🌱 I’m currently learning mathematics for Mechanisic Interpretability <br>
