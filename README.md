@@ -1,4 +1,4 @@
-### Hi there, I'm Sameen, a 1st year CS PhD student at the University of California Riverside. 
+### Hi there, I'm Haz, a 1st year CS PhD student at the University of California Riverside. 
 
 [Curiculum Vitae](https://drive.google.com/file/d/12wQTfzZZ4Aqq6M1G4jS-bVXvDlC6O6pN/view?usp=sharing)
 
