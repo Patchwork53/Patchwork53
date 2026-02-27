@@ -1,11 +1,10 @@
-### Hi there, I'm Haz, a 1st year CS PhD student at the University of California Riverside. 
+### Hi there, I'm Haz, a 2nd year CS PhD student at the University of California Riverside. 
 
-[Curiculum Vitae](https://drive.google.com/file/d/12wQTfzZZ4Aqq6M1G4jS-bVXvDlC6O6pN/view?usp=sharing)
 
 🔭 I’m currently working on image-text multimodality <br>
-🌱 I’m currently learning mathematics for Mechanisic Interpretability <br>
-💬 Ask me about NLP. <br>
-📫 How to reach me: sameen2080 AT gmail <br>
+🌱 I’m currently learning Recommendation Systems <br>
+💬 Ask me about visual representations in language models (^_~) <br>
+📫 How to reach me: hshah057 AT ucr DOT edu <br>
 
 <!--
 **Patchwork53/Patchwork53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
