@@ -1,7 +1,6 @@
-### Hi there, I'm Haz, a 2nd year CS PhD student at the University of California Riverside. 
+### Hi there, I'm Haz, a 3rd-year CS PhD student at the University of California, Riverside. 
 
-
-🔭 I’m currently working on image-text multimodality <br>
+🔭 I’m currently working on vision-language multimodality <br>
 🌱 I’m currently learning Recommendation Systems <br>
 💬 Ask me about visual representations in language models (^_~) <br>
 📫 How to reach me: hshah057 AT ucr DOT edu <br>
